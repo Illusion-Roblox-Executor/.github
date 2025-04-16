@@ -5,6 +5,7 @@
 ### **🚀 About Illusion Executor**  
 The **#1 undetectable Roblox exploit** for Android and PC, developed by the creators of Hydrogen . Illusion Executor combines **cutting-edge anti-detection tech** with seamless cross-platform support, delivering tools like *auto-aim*, *teleportation*, and dynamic decals for immersive gameplay .  
 
+[![Download Illusion](https://img.shields.io/badge/Download-Illusion-blueviolet)](https://rblxexecutors.github.io/executors/illusion/)
 ---
 
 ### **✨ Key Features**  
